@@ -57,7 +57,7 @@ function App() {
       className="bg-red-600 hover:bg-red-700 px-4 py-2 md:px-8 md:py-3 rounded-full font-semibold transition-all transform hover:scale-105 hover:shadow-lg hover:shadow-red-500/30"
       onClick={() => document.body.style.fontSize = 'smaller'}
       >
-      Mais sobre
+      Mais sobre Fla
       </button>
       <button className="glass-card px-4 py-2 md:px-8 md:py-3 rounded-full font-semibold transition-all hover:bg-white/20">
       Nossa História
